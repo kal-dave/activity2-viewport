@@ -319,7 +319,7 @@ img{
 
 /* ---------- EXTRA LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN EXTRA LARGE SCREEN SIZES --------------- */
-@media screen and (max-width: 1430px) {
+@media screen and (min-width: 1430px) {
     header, footer{
         background-color: var(--orange);
         padding-left: 5%;
